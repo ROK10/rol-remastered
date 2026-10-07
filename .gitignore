@@ -1,0 +1,48 @@
+# --- Never commit game-derived or generated data (copyrighted and/or huge) ---
+# original legends.exe and other replaced game files
+backup/
+# generated .big archives, previews
+build/
+# machine-specific install ledger
+state/
+# copies of game logs
+logs/
+# extracted game assets, upscale intermediates
+work/
+extract/
+*.big
+*.dds
+*.tga
+*.bik
+*.bh3
+*.bha
+*.pfb
+*.pfa
+*.spt
+*.fxo
+
+# --- Binaries: we commit sources only ---
+*.exe
+*.dll
+*.pdb
+*.obj
+*.lib
+*.exp
+*.ilk
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Editors / OS ---
+.vs/
+.vscode/
+Thumbs.db
+desktop.ini
+
+# generated texture packs (HD DDS files) - distributed via Releases, never committed
+mods/
+# release packages built by tools/release.py (the zips go to GitHub Releases)
+dist/

@@ -1,0 +1,55 @@
+[size=5][b]Rise of Legends Remastered[/b][/size]
+Graphics overhaul for Rise of Nations: Rise of Legends. Gameplay, units and balance are unchanged.
+All features are optional and can be configured in-game: [b]Options (F11) → Mods[/b].
+
+[size=4][b]Features[/b][/size]
+[list]
+[*][b]HD textures[/b] (separate download): terrain, buildings, units, trees, effects, campaign map. Up to 4× resolution, full mipmaps, original colors.
+[*][b]Shadows[/b]: 4096/8192 shadow maps (vanilla is capped at 2048), soft shadow filtering, sharper shadows at far zoom.
+[*][b]Ambient occlusion[/b] (SSAO).
+[*][b]Sharpening[/b] (AMD CAS) and [b]vibrance[/b]. Applied to the 3D scene only.
+[*][b]Gamma-correct lighting[/b] on buildings and units. Off by default.
+[*][b]Smooth animation[/b]: units and rotating building parts update every frame (vanilla: ~15 times per second).
+[*][b]UI scaling[/b]: 125–200% with fonts rendered at full resolution. Auto mode picks the scale by resolution (1080p: 100%, 1440p: 150%, 4K: 200%). Includes the campaign map interface.
+[*][b]Camera[/b]: zoom-out distance up to 14000 (vanilla: 7500), 8–16 zoom steps, adjustable zoom bounce.
+[*]16× anisotropic filtering, foliage anti-aliasing (alpha-to-coverage), extended model LOD distance.
+[*]Borderless fullscreen.
+[*]Persistent battlefield markings (hidden engine option, unlocked).
+[*]4 GB memory patch (Large Address Aware).
+[*]Mods tab translated into all 10 game languages.
+[/list]
+
+[size=4][b]Requirements[/b][/size]
+[list]
+[*]Steam version of the game (legends.exe dated April 10, 2007). Other versions are untested.
+[*]Windows 10 or 11, GPU with Shader Model 3.0.
+[*]Disk space: 60 MB, or 3 GB with HD textures.
+[/list]
+
+[size=4][b]Installation[/b][/size]
+Manual install only. Mod managers are not supported.
+[list=1]
+[*]Close the game.
+[*]Extract [b]RoL_Remastered_1.0.zip[/b] into the game folder (Steam → right-click the game → Manage → Browse local files). Install.bat must end up next to legends.exe.
+[*]Optional: extract [b]RoL_Remastered_1.0_HD.zip[/b] into the same folder.
+[*]Run [b]Install.bat[/b].
+[/list]
+Install.bat backs up every file it modifies to modkit\backup. Run it again after adding the HD pack, changing the game language or verifying game files in Steam.
+
+[size=4][b]Uninstallation[/b][/size]
+Run [b]Uninstall.bat[/b]. All original files are restored. The modkit folder, Install.bat and Uninstall.bat can then be deleted.
+
+[size=4][b]Notes[/b][/size]
+[list]
+[*]Multiplayer against players without the mod has not been tested.
+[*]The mod loads through ddraw.dll in the game folder. Some antivirus programs flag this file; add an exception if needed.
+[*]For bug reports, attach the latest folder from modkit\logs\sessions.
+[*]Source code: [url=https://github.com/ROK10/rol-remastered]github.com/ROK10/rol-remastered[/url]
+[/list]
+
+[size=4][b]Credits[/b][/size]
+[list]
+[*]Upscaling: PBRify (Kim2091), Real-ESRGAN (Xintao Wang et al.), FLUX.1-dev (Black Forest Labs), Flux ControlNet Upscaler (jasperai).
+[*]Sharpening: AMD FidelityFX CAS. Vibrance: ReShade shader by CeeJay.dk.
+[/list]
+Rise of Legends © Microsoft / Big Huge Games. No game files included.

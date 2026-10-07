@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROOT>
+  <GAMESETUPDATA seed="358152306" checksum_deep="0" checksum_window_size="0" checksum_failure_threshold="0" num_nations="2" num_players="2" time_to_play="0" victory_team="red" victory_type="generic" map_file=".\maps\(2)Random Small Map.map" map_checksum="249189788" map_submap_id="2" num_starting_locations="2" starting_location_0="-1" starting_location_1="-1" flags="2080" app_state="RUN_GAME">
+    <GAME_FLAGS>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+    </GAME_FLAGS>
+    <PLAYER synced_used_zoom_control="0" synced_frames_zoomed_in="0" synced_frames_zoomed_out="0" synced_clicks="0" synced_hotkeys="0" synced_minimap_clicks="0" synced_mainmap_clicks="0" synced_cheated="0" synced_control_groups_formed="0" synced_control_groups_activated="0" flags="3" tribe="3" hero="0" who="0" team="0" handicap="0" play="0" network_id="0" profile_id="0" clan_id="0" pauses="0" diff="1" no_start="0" name="{player}"/>
+    <PLAYER synced_used_zoom_control="0" synced_frames_zoomed_in="0" synced_frames_zoomed_out="0" synced_clicks="0" synced_hotkeys="0" synced_minimap_clicks="0" synced_mainmap_clicks="0" synced_cheated="0" synced_control_groups_formed="0" synced_control_groups_activated="0" flags="1" tribe="3" hero="3" who="1" team="1" handicap="0" play="1" network_id="255" profile_id="0" clan_id="0" pauses="0" diff="0" no_start="0" name="Player 2"/>
+    <PLAYER synced_used_zoom_control="0" synced_frames_zoomed_in="0" synced_frames_zoomed_out="0" synced_clicks="0" synced_hotkeys="0" synced_minimap_clicks="0" synced_mainmap_clicks="0" synced_cheated="0" synced_control_groups_formed="0" synced_control_groups_activated="0" flags="0" tribe="0" hero="14" who="0" team="0" handicap="0" play="0" network_id="255" profile_id="0" clan_id="0" pauses="0" diff="0" no_start="0"/>
+    <PLAYER synced_used_zoom_control="0" synced_frames_zoomed_in="0" synced_frames_zoomed_out="0" synced_clicks="0" synced_hotkeys="0" synced_minimap_clicks="0" synced_mainmap_clicks="0" synced_cheated="0" synced_control_groups_formed="0" synced_control_groups_activated="0" flags="0" tribe="0" hero="14" who="0" team="0" handicap="0" play="0" network_id="255" profile_id="0" clan_id="0" pauses="0" diff="0" no_start="0"/>
+    <PLAYER synced_used_zoom_control="0" synced_frames_zoomed_in="0" synced_frames_zoomed_out="0" synced_clicks="0" synced_hotkeys="0" synced_minimap_clicks="0" synced_mainmap_clicks="0" synced_cheated="0" synced_control_groups_formed="0" synced_control_groups_activated="0" flags="0" tribe="0" hero="14" who="0" team="0" handicap="0" play="0" network_id="255" profile_id="0" clan_id="0" pauses="0" diff="0" no_start="0"/>
+    <PLAYER synced_used_zoom_control="0" synced_frames_zoomed_in="0" synced_frames_zoomed_out="0" synced_clicks="0" synced_hotkeys="0" synced_minimap_clicks="0" synced_mainmap_clicks="0" synced_cheated="0" synced_control_groups_formed="0" synced_control_groups_activated="0" flags="0" tribe="0" hero="14" who="0" team="0" handicap="0" play="0" network_id="255" profile_id="0" clan_id="0" pauses="0" diff="0" no_start="0"/>
+    <PLAYER synced_used_zoom_control="0" synced_frames_zoomed_in="0" synced_frames_zoomed_out="0" synced_clicks="0" synced_hotkeys="0" synced_minimap_clicks="0" synced_mainmap_clicks="0" synced_cheated="0" synced_control_groups_formed="0" synced_control_groups_activated="0" flags="0" tribe="0" hero="14" who="0" team="0" handicap="0" play="0" network_id="255" profile_id="0" clan_id="0" pauses="0" diff="0" no_start="0"/>
+    <PLAYER synced_used_zoom_control="0" synced_frames_zoomed_in="0" synced_frames_zoomed_out="0" synced_clicks="0" synced_hotkeys="0" synced_minimap_clicks="0" synced_mainmap_clicks="0" synced_cheated="0" synced_control_groups_formed="0" synced_control_groups_activated="0" flags="0" tribe="0" hero="14" who="0" team="0" handicap="0" play="0" network_id="255" profile_id="0" clan_id="0" pauses="0" diff="0" no_start="0"/>
+    <LEADEROPTION who="0" peasants="0" peasants_wait="2" work_distance="5" buildings="1" click="0">
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+    </LEADEROPTION>
+    <LEADEROPTION who="-1" peasants="0" peasants_wait="2" work_distance="1" buildings="0" click="0">
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+    </LEADEROPTION>
+    <LEADEROPTION who="-1" peasants="0" peasants_wait="2" work_distance="1" buildings="0" click="0">
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+    </LEADEROPTION>
+    <LEADEROPTION who="-1" peasants="0" peasants_wait="2" work_distance="1" buildings="0" click="0">
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+    </LEADEROPTION>
+    <LEADEROPTION who="-1" peasants="0" peasants_wait="2" work_distance="1" buildings="0" click="0">
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+    </LEADEROPTION>
+    <LEADEROPTION who="-1" peasants="0" peasants_wait="2" work_distance="1" buildings="0" click="0">
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+    </LEADEROPTION>
+    <LEADEROPTION who="-1" peasants="0" peasants_wait="2" work_distance="1" buildings="0" click="0">
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+    </LEADEROPTION>
+    <LEADEROPTION who="-1" peasants="0" peasants_wait="2" work_distance="1" buildings="0" click="0">
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>1</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+      <BIT>0</BIT>
+    </LEADEROPTION>
+    <GAME_INFO>
+      <TEAM_STYLE>0</TEAM_STYLE>
+      <MAP_STYLE>16</MAP_STYLE>
+      <MAP_SIZE>3</MAP_SIZE>
+      <PLAYERS>4</PLAYERS>
+      <MAX_OBSERVERS>0</MAX_OBSERVERS>
+      <GAME_SPEED>2</GAME_SPEED>
+      <GAME_RULES>0</GAME_RULES>
+      <DIFFICULTY>0</DIFFICULTY>
+      <STARTING_TOWN>2</STARTING_TOWN>
+      <STARTING_RESOURCES>1</STARTING_RESOURCES>
+      <STARTING_RESOURCES2>1</STARTING_RESOURCES2>
+      <TECH_COST>3</TECH_COST>
+      <REVEAL_MAP>1</REVEAL_MAP>
+      <POP_LIMIT>5</POP_LIMIT>
+      <RUSH_RULES>0</RUSH_RULES>
+      <CANNON_TIMES>0</CANNON_TIMES>
+      <STARTING_TECHNOLOGY>0</STARTING_TECHNOLOGY>
+      <STARTING_TECHNOLOGY2>1</STARTING_TECHNOLOGY2>
+      <ENDING_TECHNOLOGY>3</ENDING_TECHNOLOGY>
+      <ELIMINATION>1</ELIMINATION>
+      <VICTORY>0</VICTORY>
+      <WONDERWIN>5</WONDERWIN>
+      <SCORE_GOAL>4</SCORE_GOAL>
+      <POPWIN>8</POPWIN>
+      <TIME_LIMIT>1</TIME_LIMIT>
+      <CHAIRS>3</CHAIRS>
+      <ECONWIN>2</ECONWIN>
+      <SCENARIO_TYPE>0</SCENARIO_TYPE>
+      <SCRIPT_TYPE>0</SCRIPT_TYPE>
+    </GAME_INFO>
+    <CTW ctw_scenario_is_quickbattle="0" ctw_scenario_is_intro="0" ctw_player_who="-1">
+      <CTW_FLAGS>
+        <BIT>0</BIT>
+        <BIT>0</BIT>
+        <BIT>0</BIT>
+        <BIT>0</BIT>
+        <BIT>0</BIT>
+      </CTW_FLAGS>
+      <CTW_SAVE_FLAGS>
+        <BIT>0</BIT>
+        <BIT>0</BIT>
+        <BIT>0</BIT>
+        <BIT>0</BIT>
+      </CTW_SAVE_FLAGS>
+      <CTW_SCENARIO choose_party="0" allow_hero_summoning="0" large_desc="0">
+        <DESC/>
+      </CTW_SCENARIO>
+      <HEROES/>
+      <ORIGINAL_CTW_STATE/>
+      <CTW_STATE/>
+      <CTW_PIECES x_off="0" y_off="0"/>
+      <CTW_RANDOM compressed="1" compressed_buff_size="2784" xmlns:dt="urn:schemas-microsoft-com:datatypes" dt:dt="bin.base64">eJyNVm9MlWUUPw+8CiLajVp52dXuBzZZI2LCB1cOm+J2VSo2yktG2VLxWtfUgN67soHNuzHX
+Fh+U3HJGfcAganwohv3ZcHPLNrdc00Z0r8OtTeeMgQKigm+/3/M8b/fO+tDLzj3Pc85zzvmd
+P+/z0l9fqATP/hz517Pa8mekXcYmg3rt8yPg4cNjbgp8ToohKRa66Lfyqfvki6wvro/dMD5S
+X6ZdrodXFEt3nsjm8qb+2Apjw0f1pd0/oY89avYHlKhVl5KRskqR69ifg47+KsBH08lIHLy4
+x9jQbwRUA6oCrbEx624G5Qzo7LKH3uPe98340lmqMeiCDJdKi7wrb8tOaZZy2SFx/JXLHmmV
+3VCXwceLn6Xd3Ky8/LhjU0FZL09Jo0RlozwnNfI8VvXY18tLoBdkgzwrlbIKkv/ztN802Jva
+GlVAiqQBnL4Y9RB0+VafY4m/Ych8yshFZlLJyPEpg/H0ibR7xtqWgb6YNuvKT9MuuR/rfjxL
+M8hk1trzyUfOvjwwRXlYRqD3Kawlon8nsK8GlkO599qyfQ9Jl0M+YP02ws++b8fcvr9a14aq
+xtzRr1Kuh0dwjrVnnJC1HfwjGREH9ghSgZSV9aVlA5kYO2CzLnHZfcTqZkHbIfPP03Y2y2bC
+MXLgUC2oUQJnq9+57OZbf5Qt+TXlsq5fjyYjQcfU++OLKT0f23tS+my4s0FFCrscFjS7qCMK
+/m0M8XVZeMXiKrP9UeLNywBwh7qc1YUZW9bO93vklu3rtMlrDfbEErRRgk7G+/i4/OcziFwi
+10xOh2wfGm4Z/vh469p76MOOmaCkfzB5sm6MWwV6vSXtbv4o7Y6PoCcSVRegPw95bEYUzxBT
+jhwFmdE8v1Qu/cMHmMtRjZD6oOPNU+7PAeMWIu7336Vck68567+Lm0AHJj2vFvwYeF2iURXX
+p90+YIkkOM9Rbdaxq0ERw+DvZm4Mli6HsYYsl8Kogp/asM27HXYx0DB8dOdElbL9abKxGJfz
+yN4wR55v492C8yGbH+3pF2vR/k7t1JhYCOIbwj1Xa9chOw8GtzlPfw/nmtiBB7aqpynLzApj
+aJ/0UZfw318Dlbh9DPf0e4Q52Z92u6Hdh3wonyiIqs5b5jznduCXomYWuHbe1GDTddODc6jJ
+8g8u67uiBrzO1taPOQT9k2dT7kKsyX0/nSVFzSIgBC3APoVztKGe9jxzHbKZanMPUZZ/MO2a
+OuE7gbna8puZqw40vfSOsS+ZDcq2DxfFuebBqwtXMp+Y8VHUXAU9aWL94jh7zd6zFtt63ndz
+7AyFQXHsFyLz1Bz8wVH2d2BmicirqO+GyVc0Ht7z+2DzOfr+E/ht8KpYg3rshucta2lUcXwt
+SiDfAvleeUt/A7w8+tyt82qE173wThmJ/eFsaLJzyoe6dtu/8OKo8vKMvM3y/tumBp2oRyfW
+P9uz9FEgpXqGApgrYn8NuCM4Q1uumYcfiHZzy816I20wN3oecN6vJX1Qtkv3Q+m1Pxtv2NkI
+oychzBX7Q0xxJ6rYtxMX2Ldeh4DG7galBLwCtAbzHIANmuDod2WBBNfLE0K+TqqwqqHC6kXL
+iTvw42E9I2cOnnYCel5LpcNeBJFJU7+rfO/ueh7/Z5gEbz/Z65wauORuBZb2T4BFzL578Err
+tYvJyDfA9bK61rpnJQyulKkR7N/Enr4oa7lj7lZfNgt9h5U5mJkjdj19x/O67dqfIWI4rjPo
+dR60eZA37O91QgvMvTlSYDAxDeLLnxdFu8RJY6Ps2r8P4swxp9fJ/qb8DWPTTP4=</CTW_RANDOM>
+      <CTW_LOG/>
+    </CTW>
+  </GAMESETUPDATA>
+</ROOT>

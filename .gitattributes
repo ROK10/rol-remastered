@@ -1,0 +1,13 @@
+* text=auto
+*.py   text eol=lf
+*.md   text eol=lf
+*.json text eol=lf
+*.xml  text
+*.fx   text
+*.fxh  text
+*.cpp  text
+*.h    text
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
+*.png  binary
+*.jpg  binary

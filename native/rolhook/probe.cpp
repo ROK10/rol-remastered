@@ -13,7 +13,7 @@
 //  * watch_shadow_matrix=1 : a write watch on the first element of the engine's ShadowMapProjection shader variable
 //    once it exists — finds the code that fits the shadow map to the camera.
 //
-// Engine rectangles are int16 {left, right, top, bottom}. Addresses are for legends.exe 1.0 (Steam), image base
+// Engine rectangles are int16 {left, right, top, bottom}. Addresses are for legends.exe of patch 2.5, image base
 // 0x400000; the probe checks the layout function's first bytes before touching engine memory.
 #include "rolhook.h"
 

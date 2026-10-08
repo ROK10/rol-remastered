@@ -1,6 +1,6 @@
 # Rise of Legends Remastered — source
 
-Source code of Rise of Legends Remastered, a graphics mod for Rise of Nations: Rise of Legends (Steam version).
+Source code of Rise of Legends Remastered, a graphics mod for Rise of Nations: Rise of Legends (disc version with the official 2.5 patch).
 Releases are published on Nexus Mods. This repository holds one snapshot per release; no game files are included.
 
 ## Layout

@@ -14,7 +14,7 @@
 // The controls keep their state in fields of the control objects: checkbox +0x2E0, slider +0x2E4 (min +0x2E8,
 // max +0x2EC), combobox +0x928 = selected index into the item array (+0x2F4, count +0x2E4; item +0xC = ITEM id).
 //
-// Addresses are for legends.exe 1.0 (Steam): image base 0x400000, no relocations. Each hooked function and
+// Addresses are for legends.exe of patch 2.5: image base 0x400000, no relocations. Each hooked function and
 // engine helper is checked against its first bytes; on any mismatch nothing is hooked.
 #include "rolhook.h"
 

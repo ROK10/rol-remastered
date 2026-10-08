@@ -10,7 +10,7 @@
 // The zoom animation is kept from overshooting the closest and farthest zoom ([camera] stop_at_limits) and its
 // spring back after a wheel step is adjustable ([camera] zoom_spring), both below.
 //
-// Addresses are for legends.exe 1.0 (Steam), image base 0x400000; every hook is checked against code bytes.
+// Addresses are for legends.exe of patch 2.5, image base 0x400000; every hook is checked against code bytes.
 #include "rolhook.h"
 
 #include <algorithm>

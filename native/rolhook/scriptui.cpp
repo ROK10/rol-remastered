@@ -10,7 +10,7 @@
 //
 // One entry thunk per function pushes its index and jumps to a common thunk, which copies the arguments, calls the
 // original through its trampoline, logs and returns to the caller past the arguments (their count from the table).
-// Addresses are for legends.exe 1.0 (Steam); every function's first bytes are checked before it is hooked.
+// Addresses are for legends.exe of patch 2.5; every function's first bytes are checked before it is hooked.
 #include "rolhook.h"
 
 #include <cstdio>

@@ -17,18 +17,17 @@ WHAT YOU GET
     (English, Deutsch, Français, Italiano, Español, Polski, Čeština, Русский, 日本語, 繁體中文)
 
 REQUIREMENTS
-  - Rise of Nations: Rise of Legends from Steam (legends.exe of 10 April 2007)
+  - Rise of Nations: Rise of Legends, disc version with the official 2.5 patch (legends.exe of 10 April 2007)
   - Windows 10 or 11, a graphics card with Shader Model 3 (any card from the last 15 years)
 
 INSTALLING
   1. Close the game.
-  2. Unpack RoL_Remastered_{version}.zip into the game folder (the folder with legends.exe;
-     in Steam: right-click the game - Manage - Browse local files).
+  2. Unpack RoL_Remastered_{version}.zip into the game folder (the folder with legends.exe).
   3. Optional, recommended: unpack the HD pack (RoL_Remastered_{version}_HD.zip) into the same folder.
      It only adds files to modkit\mods\hd.
   4. Run Install.bat. It takes a minute or two.
   Install.bat backs up every game file it changes into modkit\backup. Run it again after adding the HD pack later,
-  or after switching the game's language in Steam, so that the Mods tab follows the new language.
+  or after switching the game's language, so that the Mods tab follows the new language.
 
 SETTINGS
   In the game: Options (F11) - Mods. Most settings apply at once, even during a match. Those marked with the star
@@ -39,7 +38,7 @@ UNINSTALLING
   Uninstall.bat can be deleted.
 
 IF SOMETHING GOES WRONG
-  - Steam's "Verify integrity of game files" restores the original legends.exe and archives; run Install.bat again
+  - Reinstalling or re-patching the game restores the original legends.exe and archives; run Install.bat again
     afterwards.
   - Some antivirus programs distrust ddraw.dll in a game folder: the modpack works through it (it is how the mod
     hooks into the game). Allow it, or uninstall the modpack.

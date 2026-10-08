@@ -30,7 +30,7 @@
 // +0x80, texel rectangle int16 at +0x34); stack: two values passed on to the sprite, a flag that counts a layer;
 // ret 0xC. Pieces are drawn by the sprite 0x00F72BB0 (stdcall: UIRenderMgr, TEX, x, y, w, h, a0, a1, layer flag).
 //
-// Addresses are for legends.exe 1.0 (Steam), image base 0x400000; the code is checked before it is patched.
+// Addresses are for legends.exe of patch 2.5, image base 0x400000; the code is checked before it is patched.
 #include "rolhook.h"
 
 #include <algorithm>
